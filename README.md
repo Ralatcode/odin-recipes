@@ -1,4 +1,4 @@
-This is my First project for The Odin Project Course,
+This is my first project for The Odin Project Course,
 The Task is to build a  basic recipe page with only HTML 
 to put all HTML knowledge acquired so far into practice.
 
